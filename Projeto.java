@@ -29,7 +29,7 @@ public class Projeto {
             if(saida <= NumMenor | i == 0){ //Pegar número menor
                 NumMenor = saida;
             }
-            if(saida >= NumMenor | i == 0){ //Pegar número maior
+            if(saida >= NumMaior | i == 0){ //Pegar número maior
                 NumMaior = saida;
             }
             if(saida% 2 == 0){ //Verificar número par
